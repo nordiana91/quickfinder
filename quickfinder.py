@@ -2,8 +2,7 @@
 Quick Finder
 QGIS plugin
 
-Denis Rouzaud
-denis.rouzaud@gmail.com
+
 """
 # Import the PyQt and QGIS libraries
 from PyQt4.QtCore import *
